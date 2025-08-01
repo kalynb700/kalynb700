@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, World! I'm Kalyn👋
 
 <!--
 **kalynb700/kalynb700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hello, world! I'm Kalyn
-🎓 a Senior studying Computer Science at San Jose State University (SJSU)
+🎓 Senior studying Computer Science at San Jose State University (SJSU)
 🔭 Aspiring software engineer with an interest in sustainability, and machine learning
 
 As of late, I've been working on developing my skillsets in machine learning, full-stack development, and basic electrical engineering. That said, I've been researching AI capabilities and other computer science applications in addition to attending tech panels led by experts in their respective fields. I'm particularly dedicated to finding ways to enhance and engineer technology to help combat climate change and other environmental issues. Computer science and otherwise data analytics play a major role in predicting climate trends and compiling information. My dream is to work alongside others who are just as devoted to improving the environment to innovate existing or new technology. 
